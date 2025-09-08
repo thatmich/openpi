@@ -1,5 +1,7 @@
 # openpi
 
+Forked for learning purposes.
+
 openpi holds open-source models and packages for robotics, published by the [Physical Intelligence team](https://www.physicalintelligence.company/).
 
 Currently, this repo contains two types of models:
